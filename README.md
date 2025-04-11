@@ -14,6 +14,12 @@ This repository contains a PowerShell script (`import_geo_data.ps1`) to import g
 - Includes error handling for missing files, invalid JSON, and database connectivity.
 - Designed for Windows using PowerShell and `psql`.
 
+## Directory Structure
+
+- `geo_code.json`: The input JSON file containing geographic data.
+- `import_geo_data.ps1`: The PowerShell script to import data into PostgreSQL.
+- `command.txt`: A text file with commands to run the script (optional).
+
 ## Prerequisites
 
 - **PostgreSQL 17** (or compatible version) installed.
@@ -63,7 +69,7 @@ This repository contains a PowerShell script (`import_geo_data.ps1`) to import g
      [
        { "name": "Dhaka", "type": "division", "division_id": "30" },
        { "name": "Gazipur", "type": "district", "division_id": "30", "district_id": "33" },
-       { "name": "Kaliakair", "type": "upazila", "division_id": "30", "district_id":_simple_ "33", "upazila_id": "36" }
+       { "name": "Kaliakair", "type": "upazila", "division_id": "30", "district_id": "33", "upazila_id": "36" }
      ]
      ```
 
@@ -86,10 +92,11 @@ This repository contains a PowerShell script (`import_geo_data.ps1`) to import g
    cd path\to\geocode-migration
    $env:PATH += ";C:\Program Files\PostgreSQL\17\bin"
    psql --version
+   Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
    .\import_geo_data.ps1
    ```
-   - The PATH update is needed only if `psql` isn’t in your permanent PATH.
-   - `psql --version` confirms PostgreSQL is accessible.
+   - `Set-ExecutionPolicy` allows the script to run by bypassing PowerShell’s execution policy for the current session.
+   - If `psql` is already in your permanent PATH, the PATH update step can be skipped.
 
 3. **Expected Output**:
    - Creates `registration.address` table.
@@ -139,6 +146,15 @@ CREATE TABLE registration.address (
     $env:PATH -split ';' | Where-Object {$_ -like "*PostgreSQL*"}
     ```
   - Reinstall PostgreSQL if missing.
+- **Execution Policy Error**:
+  - If script execution is blocked, ensure you run:
+    ```powershell
+    Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
+    ```
+    Alternatively, set a less restrictive policy permanently:
+    ```powershell
+    Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+    ```
 - **Connection Errors**:
   - Check PostgreSQL service:
     ```powershell
@@ -186,13 +202,11 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ---
 
-### Notes
-- **Script Changes**: The README reflects your updated script, which uses `upazila_id` and `UPAZILA` type instead of `thana_id`/`THANA`. The table schema and insert logic are updated accordingly.
-- **Commands**: Included your exact commands (`$env:PATH`, `psql --version`, `.\import_geo_data.ps1`) in the Usage section.
-- **Repository Name**: Used `geocode-migration` as a placeholder. Replace with your repo name (e.g., `https://github.com/yourusername/your-repo`).
-- **JSON Example**: Added a sample JSON structure based on typical Bangladesh geo data. If your `geo_code.json` differs, I can update it.
-- **License**: Defaulted to MIT. Specify another if preferred.
-- **Port**: Noted `5433` but included guidance for `5432` since new PostgreSQL installations default to it.
+### Changes Made
+- **Updated Commands**: Added `Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process` to the Usage section, matching your latest commands.
+- **Directory Structure**: Added a section to reflect the files in your screenshot (`command.txt`, `geo_code.json`, `import_geo_data.ps1`).
+- **Execution Policy Note**: Included guidance on handling execution policy errors in the Troubleshooting section.
+- **Script Details**: The README still reflects your latest script (using `upazila_id` and `UPAZILA` type), as provided earlier.
 
 ### Setup Instructions
 To add this to your GitHub repository:
@@ -202,8 +216,8 @@ To add this to your GitHub repository:
    ```powershell
    cd C:\Users\rahma\OneDrive\Desktop\geoCodeMigration
    git init
-   git add README.md import_geo_data.ps1 geo_code.json
-   git commit -m "Add script and README"
+   git add README.md import_geo_data.ps1 geo_code.json command.txt
+   git commit -m "Add script, README, and files"
    ```
 4. Create a GitHub repository and push:
    ```powershell
