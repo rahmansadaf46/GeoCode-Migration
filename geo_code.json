@@ -1,0 +1,4243 @@
+[
+  {
+    "division_id": "10",
+    "name": "BARISAL",
+    "type": "division"
+  },
+  {
+    "division_id": "10",
+    "district_id": "04",
+    "name": "BARGUNA",
+    "type": "district"
+  },
+  {
+    "division_id": "10",
+    "district_id": "04",
+    "upazila_id": "09",
+    "name": "AMTALI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "10",
+    "district_id": "04",
+    "upazila_id": "19",
+    "name": "BAMNA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "10",
+    "district_id": "04",
+    "upazila_id": "28",
+    "name": "BARGUNA SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "10",
+    "district_id": "04",
+    "upazila_id": "47",
+    "name": "BETAGI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "10",
+    "district_id": "04",
+    "upazila_id": "85",
+    "name": "PATHARGHATA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "10",
+    "district_id": "06",
+    "name": "BARISAL",
+    "type": "district"
+  },
+  {
+    "division_id": "10",
+    "district_id": "06",
+    "upazila_id": "02",
+    "name": "AGAILJHARA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "10",
+    "district_id": "06",
+    "upazila_id": "03",
+    "name": "BABUGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "10",
+    "district_id": "06",
+    "upazila_id": "07",
+    "name": "BAKERGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "10",
+    "district_id": "06",
+    "upazila_id": "10",
+    "name": "BANARIPARA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "10",
+    "district_id": "06",
+    "upazila_id": "32",
+    "name": "GAURNADI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "10",
+    "district_id": "06",
+    "upazila_id": "36",
+    "name": "HIZLA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "10",
+    "district_id": "06",
+    "upazila_id": "51",
+    "name": "BARISAL SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "10",
+    "district_id": "06",
+    "upazila_id": "62",
+    "name": "MEHENDIGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "10",
+    "district_id": "06",
+    "upazila_id": "69",
+    "name": "MULADI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "10",
+    "district_id": "06",
+    "upazila_id": "94",
+    "name": "WAZIRPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "10",
+    "district_id": "09",
+    "name": "BHOLA",
+    "type": "district"
+  },
+  {
+    "division_id": "10",
+    "district_id": "09",
+    "upazila_id": "18",
+    "name": "BHOLA SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "10",
+    "district_id": "09",
+    "upazila_id": "21",
+    "name": "BURHANUDDIN",
+    "type": "upazila"
+  },
+  {
+    "division_id": "10",
+    "district_id": "09",
+    "upazila_id": "25",
+    "name": "CHAR FASSON",
+    "type": "upazila"
+  },
+  {
+    "division_id": "10",
+    "district_id": "09",
+    "upazila_id": "29",
+    "name": "DAULAT KHAN",
+    "type": "upazila"
+  },
+  {
+    "division_id": "10",
+    "district_id": "09",
+    "upazila_id": "54",
+    "name": "LALMOHAN",
+    "type": "upazila"
+  },
+  {
+    "division_id": "10",
+    "district_id": "09",
+    "upazila_id": "65",
+    "name": "MANPURA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "10",
+    "district_id": "09",
+    "upazila_id": "91",
+    "name": "TAZUMUDDIN",
+    "type": "upazila"
+  },
+  {
+    "division_id": "10",
+    "district_id": "42",
+    "name": "JHALOKATI",
+    "type": "district"
+  },
+  {
+    "division_id": "10",
+    "district_id": "42",
+    "upazila_id": "40",
+    "name": "JHALOKATI SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "10",
+    "district_id": "42",
+    "upazila_id": "43",
+    "name": "KANTHALIA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "10",
+    "district_id": "42",
+    "upazila_id": "73",
+    "name": "NALCHITY",
+    "type": "upazila"
+  },
+  {
+    "division_id": "10",
+    "district_id": "42",
+    "upazila_id": "84",
+    "name": "RAJAPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "10",
+    "district_id": "78",
+    "name": "PATUAKHALI",
+    "type": "district"
+  },
+  {
+    "division_id": "10",
+    "district_id": "78",
+    "upazila_id": "38",
+    "name": "BAUPHAL",
+    "type": "upazila"
+  },
+  {
+    "division_id": "10",
+    "district_id": "78",
+    "upazila_id": "52",
+    "name": "DASHMINA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "10",
+    "district_id": "78",
+    "upazila_id": "55",
+    "name": "DUMKI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "10",
+    "district_id": "78",
+    "upazila_id": "57",
+    "name": "GALACHIPA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "10",
+    "district_id": "78",
+    "upazila_id": "66",
+    "name": "KALA PARA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "10",
+    "district_id": "78",
+    "upazila_id": "76",
+    "name": "MIRZAGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "10",
+    "district_id": "78",
+    "upazila_id": "95",
+    "name": "PATUAKHALI SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "10",
+    "district_id": "79",
+    "name": "PIROJPUR",
+    "type": "district"
+  },
+  {
+    "division_id": "10",
+    "district_id": "79",
+    "upazila_id": "14",
+    "name": "BHANDARIA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "10",
+    "district_id": "79",
+    "upazila_id": "47",
+    "name": "KAWKHALI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "10",
+    "district_id": "79",
+    "upazila_id": "58",
+    "name": "MATHBARIA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "10",
+    "district_id": "79",
+    "upazila_id": "76",
+    "name": "NAZIRPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "10",
+    "district_id": "79",
+    "upazila_id": "80",
+    "name": "PIROJPUR SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "10",
+    "district_id": "79",
+    "upazila_id": "87",
+    "name": "NESARABAD (SWARUPKATI)",
+    "type": "upazila"
+  },
+  {
+    "division_id": "10",
+    "district_id": "79",
+    "upazila_id": "90",
+    "name": "ZIANAGAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "name": "CHITTAGONG",
+    "type": "division"
+  },
+  {
+    "division_id": "20",
+    "district_id": "03",
+    "name": "BANDARBAN",
+    "type": "district"
+  },
+  {
+    "division_id": "20",
+    "district_id": "03",
+    "upazila_id": "04",
+    "name": "ALIKADAM",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "03",
+    "upazila_id": "14",
+    "name": "BANDARBAN SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "03",
+    "upazila_id": "51",
+    "name": "LAMA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "03",
+    "upazila_id": "73",
+    "name": "NAIKHONGCHHARI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "03",
+    "upazila_id": "89",
+    "name": "ROWANGCHHARI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "03",
+    "upazila_id": "91",
+    "name": "RUMA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "03",
+    "upazila_id": "95",
+    "name": "THANCHI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "12",
+    "name": "BRAHMANBARIA",
+    "type": "district"
+  },
+  {
+    "division_id": "20",
+    "district_id": "12",
+    "upazila_id": "02",
+    "name": "AKHAURA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "12",
+    "upazila_id": "04",
+    "name": "BANCHHARAMPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "12",
+    "upazila_id": "07",
+    "name": "BIJOYNAGAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "12",
+    "upazila_id": "13",
+    "name": "BRAHMANBARIA SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "12",
+    "upazila_id": "33",
+    "name": "ASHUGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "12",
+    "upazila_id": "63",
+    "name": "KASBA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "12",
+    "upazila_id": "85",
+    "name": "NABINAGAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "12",
+    "upazila_id": "90",
+    "name": "NASIRNAGAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "12",
+    "upazila_id": "94",
+    "name": "SARAIL",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "13",
+    "name": "CHANDPUR",
+    "type": "district"
+  },
+  {
+    "division_id": "20",
+    "district_id": "13",
+    "upazila_id": "22",
+    "name": "CHANDPUR SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "13",
+    "upazila_id": "45",
+    "name": "FARIDGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "13",
+    "upazila_id": "47",
+    "name": "HAIM CHAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "13",
+    "upazila_id": "49",
+    "name": "HAJIGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "13",
+    "upazila_id": "58",
+    "name": "KACHUA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "13",
+    "upazila_id": "76",
+    "name": "MATLAB",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "13",
+    "upazila_id": "79",
+    "name": "UTTAR MATLAB",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "13",
+    "upazila_id": "95",
+    "name": "SHAHRASTI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "15",
+    "name": "CHITTAGONG",
+    "type": "district"
+  },
+  {
+    "division_id": "20",
+    "district_id": "15",
+    "upazila_id": "04",
+    "name": "ANOWARA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "15",
+    "upazila_id": "06",
+    "name": "BAYEJID BOSTAMI THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "15",
+    "upazila_id": "08",
+    "name": "BANSHKHALI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "15",
+    "upazila_id": "10",
+    "name": "BAKALIA THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "15",
+    "upazila_id": "12",
+    "name": "BOALKHALI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "15",
+    "upazila_id": "18",
+    "name": "CHANDANAISH",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "15",
+    "upazila_id": "19",
+    "name": "CHANDGAON THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "15",
+    "upazila_id": "20",
+    "name": "CHITTAGONG PORT THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "15",
+    "upazila_id": "28",
+    "name": "DOUBLE MOORING THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "15",
+    "upazila_id": "33",
+    "name": "FATIKCHHARI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "15",
+    "upazila_id": "35",
+    "name": "HALISHAHAR THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "15",
+    "upazila_id": "37",
+    "name": "HATHAZARI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "15",
+    "upazila_id": "39",
+    "name": "KARNAFULI THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "15",
+    "upazila_id": "41",
+    "name": "KOTWALI THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "15",
+    "upazila_id": "43",
+    "name": "KHULSHI THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "15",
+    "upazila_id": "47",
+    "name": "LOHAGARA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "15",
+    "upazila_id": "53",
+    "name": "MIRSHARAI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "15",
+    "upazila_id": "55",
+    "name": "PAHARTALI THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "15",
+    "upazila_id": "57",
+    "name": "PANCHLAISH THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "15",
+    "upazila_id": "61",
+    "name": "PATIYA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "15",
+    "upazila_id": "65",
+    "name": "PATENGA THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "15",
+    "upazila_id": "70",
+    "name": "RANGUNIA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "15",
+    "upazila_id": "74",
+    "name": "RAOZAN",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "15",
+    "upazila_id": "78",
+    "name": "SANDWIP",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "15",
+    "upazila_id": "82",
+    "name": "SATKANIA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "15",
+    "upazila_id": "86",
+    "name": "SITAKUNDA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "19",
+    "name": "COMILLA",
+    "type": "district"
+  },
+  {
+    "division_id": "20",
+    "district_id": "19",
+    "upazila_id": "09",
+    "name": "BARURA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "19",
+    "upazila_id": "15",
+    "name": "BRAHMAN PARA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "19",
+    "upazila_id": "18",
+    "name": "BURICHANG",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "19",
+    "upazila_id": "27",
+    "name": "CHANDINA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "19",
+    "upazila_id": "31",
+    "name": "CHAUDDAGRAM",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "19",
+    "upazila_id": "33",
+    "name": "COMILLA SADAR DAKHIN",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "19",
+    "upazila_id": "36",
+    "name": "DAUDKANDI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "19",
+    "upazila_id": "40",
+    "name": "DEBIDWAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "19",
+    "upazila_id": "54",
+    "name": "HOMNA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "19",
+    "upazila_id": "67",
+    "name": "COMILLA ADARSHA SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "19",
+    "upazila_id": "72",
+    "name": "LAKSAM",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "19",
+    "upazila_id": "74",
+    "name": "MANOHARGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "19",
+    "upazila_id": "75",
+    "name": "MEGHNA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "19",
+    "upazila_id": "81",
+    "name": "MURADNAGAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "19",
+    "upazila_id": "87",
+    "name": "NANGALKOT",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "19",
+    "upazila_id": "94",
+    "name": "TITAS",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "22",
+    "name": "COX'S BAZAR",
+    "type": "district"
+  },
+  {
+    "division_id": "20",
+    "district_id": "22",
+    "upazila_id": "16",
+    "name": "CHAKARIA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "22",
+    "upazila_id": "24",
+    "name": "COX'S BAZAR SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "22",
+    "upazila_id": "45",
+    "name": "KUTUBDIA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "22",
+    "upazila_id": "49",
+    "name": "MAHESHKHALI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "22",
+    "upazila_id": "56",
+    "name": "PEKUA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "22",
+    "upazila_id": "66",
+    "name": "RAMU",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "22",
+    "upazila_id": "90",
+    "name": "TEKNAF",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "22",
+    "upazila_id": "94",
+    "name": "UKHIA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "30",
+    "name": "FENI",
+    "type": "district"
+  },
+  {
+    "division_id": "20",
+    "district_id": "30",
+    "upazila_id": "14",
+    "name": "CHHAGALNAIYA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "30",
+    "upazila_id": "25",
+    "name": "DAGANBHUIYAN",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "30",
+    "upazila_id": "29",
+    "name": "FENI SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "30",
+    "upazila_id": "41",
+    "name": "FULGAZI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "30",
+    "upazila_id": "51",
+    "name": "PARSHURAM",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "30",
+    "upazila_id": "94",
+    "name": "SONAGAZI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "46",
+    "name": "KHAGRACHHARI",
+    "type": "district"
+  },
+  {
+    "division_id": "20",
+    "district_id": "46",
+    "upazila_id": "43",
+    "name": "DIGHINALA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "46",
+    "upazila_id": "49",
+    "name": "KHAGRACHHARI SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "46",
+    "upazila_id": "61",
+    "name": "LAKSHMICHHARI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "46",
+    "upazila_id": "65",
+    "name": "MAHALCHHARI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "46",
+    "upazila_id": "67",
+    "name": "MANIKCHHARI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "46",
+    "upazila_id": "70",
+    "name": "MATIRANGA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "46",
+    "upazila_id": "77",
+    "name": "PANCHHARI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "46",
+    "upazila_id": "80",
+    "name": "RAMGARH",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "51",
+    "name": "LAKSHMIPUR",
+    "type": "district"
+  },
+  {
+    "division_id": "20",
+    "district_id": "51",
+    "upazila_id": "33",
+    "name": "KAMALNAGAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "51",
+    "upazila_id": "43",
+    "name": "LAKSHMIPUR SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "51",
+    "upazila_id": "58",
+    "name": "ROYPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "51",
+    "upazila_id": "65",
+    "name": "RAMGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "51",
+    "upazila_id": "73",
+    "name": "RAMGATI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "75",
+    "name": "NOAKHALI",
+    "type": "district"
+  },
+  {
+    "division_id": "20",
+    "district_id": "75",
+    "upazila_id": "07",
+    "name": "BEGUMGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "75",
+    "upazila_id": "10",
+    "name": "CHATKHIL",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "75",
+    "upazila_id": "21",
+    "name": "COMPANIGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "75",
+    "upazila_id": "36",
+    "name": "HATIYA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "75",
+    "upazila_id": "47",
+    "name": "KABIRHAT",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "75",
+    "upazila_id": "80",
+    "name": "SENBAGH",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "75",
+    "upazila_id": "83",
+    "name": "SONAIMURI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "75",
+    "upazila_id": "85",
+    "name": "SUBARNA CHAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "75",
+    "upazila_id": "87",
+    "name": "NOAKHALI SADAR (SUDHARAM)",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "84",
+    "name": "RANGAMATI",
+    "type": "district"
+  },
+  {
+    "division_id": "20",
+    "district_id": "84",
+    "upazila_id": "07",
+    "name": "BAGHAI CHHARI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "84",
+    "upazila_id": "21",
+    "name": "BARKAL",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "84",
+    "upazila_id": "25",
+    "name": "KAWKHALI (BETBUNIA)",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "84",
+    "upazila_id": "29",
+    "name": "BELAI CHHARI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "84",
+    "upazila_id": "36",
+    "name": "KAPTAI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "84",
+    "upazila_id": "47",
+    "name": "JURAI CHHARI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "84",
+    "upazila_id": "58",
+    "name": "LANGADU",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "84",
+    "upazila_id": "75",
+    "name": "MANIARCHAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "84",
+    "upazila_id": "78",
+    "name": "RAJASTHALI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "20",
+    "district_id": "84",
+    "upazila_id": "87",
+    "name": "RANGAMATI SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "name": "DHAKA ",
+    "type": "division"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "name": "DHAKA",
+    "type": "district"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "02",
+    "name": "ADABAR THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "03",
+    "name": "ASHULIA THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "04",
+    "name": "BADDA THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "05",
+    "name": "BANGSHAL THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "06",
+    "name": "BIMANBANDAR THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "08",
+    "name": "CANTONMENT THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "09",
+    "name": "CHAK BAZAR THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "10",
+    "name": "DAKSHINKHAN THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "11",
+    "name": "DARUS SALAM THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "12",
+    "name": "DEMRA THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "14",
+    "name": "DHAMRAI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "16",
+    "name": "DHANMONDI THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "18",
+    "name": "DOHAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "24",
+    "name": "GENDARIA THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "26",
+    "name": "GULSHAN THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "28",
+    "name": "HAZARIBAGH THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "29",
+    "name": "JATRABARI THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "30",
+    "name": "KAFRUL THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "32",
+    "name": "KADAM TALI THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "33",
+    "name": "KALABAGAN THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "34",
+    "name": "KAMRANGIR CHAR THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "36",
+    "name": "KHILGAON THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "37",
+    "name": "KHILKHET THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "38",
+    "name": "KERANIGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "40",
+    "name": "KOTWALI THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "42",
+    "name": "LALBAGH THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "48",
+    "name": "MIRPUR THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "50",
+    "name": "MOHAMMADPUR THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "54",
+    "name": "MOTIJHEEL THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "62",
+    "name": "NAWABGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "63",
+    "name": "NEW MARKET THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "64",
+    "name": "PALLABI THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "65",
+    "name": "PALTAN THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "66",
+    "name": "RAMNA THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "67",
+    "name": "RAMPURA THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "68",
+    "name": "SABUJBAGH THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "72",
+    "name": "SAVAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "74",
+    "name": "SHAH ALI THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "75",
+    "name": "SHAHBAG THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "76",
+    "name": "SHYAMPUR THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "80",
+    "name": "SHER-E-BANGLA NAGAR THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "88",
+    "name": "SUTRAPUR THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "90",
+    "name": "TEJGAON THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "92",
+    "name": "TEJGAON IND.AREA THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "93",
+    "name": "TURAG THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "95",
+    "name": "UTTARA THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "26",
+    "upazila_id": "96",
+    "name": "UTTAR KHAN THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "29",
+    "name": "FARIDPUR",
+    "type": "district"
+  },
+  {
+    "division_id": "30",
+    "district_id": "29",
+    "upazila_id": "03",
+    "name": "ALFADANGA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "29",
+    "upazila_id": "10",
+    "name": "BHANGA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "29",
+    "upazila_id": "18",
+    "name": "BOALMARI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "29",
+    "upazila_id": "21",
+    "name": "CHAR BHADRASAN",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "29",
+    "upazila_id": "47",
+    "name": "FARIDPUR SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "29",
+    "upazila_id": "56",
+    "name": "MADHUKHALI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "29",
+    "upazila_id": "62",
+    "name": "NAGARKANDA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "29",
+    "upazila_id": "84",
+    "name": "SADARPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "29",
+    "upazila_id": "90",
+    "name": "SALTHA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "33",
+    "name": "GAZIPUR",
+    "type": "district"
+  },
+  {
+    "division_id": "30",
+    "district_id": "33",
+    "upazila_id": "30",
+    "name": "GAZIPUR SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "33",
+    "upazila_id": "32",
+    "name": "KALIAKAIR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "33",
+    "upazila_id": "34",
+    "name": "KALIGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "33",
+    "upazila_id": "36",
+    "name": "KAPASIA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "33",
+    "upazila_id": "86",
+    "name": "SREEPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "35",
+    "name": "GOPALGANJ",
+    "type": "district"
+  },
+  {
+    "division_id": "30",
+    "district_id": "35",
+    "upazila_id": "32",
+    "name": "GOPALGANJ SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "35",
+    "upazila_id": "43",
+    "name": "KASHIANI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "35",
+    "upazila_id": "51",
+    "name": "KOTALIPARA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "35",
+    "upazila_id": "58",
+    "name": "MUKSUDPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "35",
+    "upazila_id": "91",
+    "name": "TUNGIPARA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "39",
+    "name": "JAMALPUR",
+    "type": "district"
+  },
+  {
+    "division_id": "30",
+    "district_id": "39",
+    "upazila_id": "07",
+    "name": "BAKSHIGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "39",
+    "upazila_id": "15",
+    "name": "DEWANGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "39",
+    "upazila_id": "29",
+    "name": "ISLAMPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "39",
+    "upazila_id": "36",
+    "name": "JAMALPUR SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "39",
+    "upazila_id": "58",
+    "name": "MADARGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "39",
+    "upazila_id": "61",
+    "name": "MELANDAHA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "39",
+    "upazila_id": "85",
+    "name": "SARISHABARI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "48",
+    "name": "KISHOREGANJ",
+    "type": "district"
+  },
+  {
+    "division_id": "30",
+    "district_id": "48",
+    "upazila_id": "02",
+    "name": "AUSTAGRAM",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "48",
+    "upazila_id": "06",
+    "name": "BAJITPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "48",
+    "upazila_id": "11",
+    "name": "BHAIRAB",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "48",
+    "upazila_id": "27",
+    "name": "HOSSAINPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "48",
+    "upazila_id": "33",
+    "name": "ITNA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "48",
+    "upazila_id": "42",
+    "name": "KARIMGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "48",
+    "upazila_id": "45",
+    "name": "KATIADI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "48",
+    "upazila_id": "49",
+    "name": "KISHOREGANJ SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "48",
+    "upazila_id": "54",
+    "name": "KULIAR CHAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "48",
+    "upazila_id": "59",
+    "name": "MITHAMAIN",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "48",
+    "upazila_id": "76",
+    "name": "NIKLI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "48",
+    "upazila_id": "79",
+    "name": "PAKUNDIA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "48",
+    "upazila_id": "92",
+    "name": "TARAIL",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "54",
+    "name": "MADARIPUR",
+    "type": "district"
+  },
+  {
+    "division_id": "30",
+    "district_id": "54",
+    "upazila_id": "40",
+    "name": "KALKINI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "54",
+    "upazila_id": "54",
+    "name": "MADARIPUR SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "54",
+    "upazila_id": "80",
+    "name": "RAJOIR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "54",
+    "upazila_id": "87",
+    "name": "SHIB CHAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "56",
+    "name": "MANIKGANJ",
+    "type": "district"
+  },
+  {
+    "division_id": "30",
+    "district_id": "56",
+    "upazila_id": "10",
+    "name": "DAULATPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "56",
+    "upazila_id": "22",
+    "name": "GHIOR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "56",
+    "upazila_id": "28",
+    "name": "HARIRAMPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "56",
+    "upazila_id": "46",
+    "name": "MANIKGANJ SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "56",
+    "upazila_id": "70",
+    "name": "SATURIA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "56",
+    "upazila_id": "78",
+    "name": "SHIBALAYA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "56",
+    "upazila_id": "82",
+    "name": "SINGAIR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "59",
+    "name": "MUNSHIGANJ",
+    "type": "district"
+  },
+  {
+    "division_id": "30",
+    "district_id": "59",
+    "upazila_id": "24",
+    "name": "GAZARIA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "59",
+    "upazila_id": "44",
+    "name": "LOHAJANG",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "59",
+    "upazila_id": "56",
+    "name": "MUNSHIGANJ SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "59",
+    "upazila_id": "74",
+    "name": "SERAJDIKHAN",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "59",
+    "upazila_id": "84",
+    "name": "SREENAGAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "59",
+    "upazila_id": "94",
+    "name": "TONGIBARI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "61",
+    "name": "MYMENSINGH",
+    "type": "district"
+  },
+  {
+    "division_id": "30",
+    "district_id": "61",
+    "upazila_id": "13",
+    "name": "BHALUKA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "61",
+    "upazila_id": "16",
+    "name": "DHOBAURA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "61",
+    "upazila_id": "20",
+    "name": "FULBARIA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "61",
+    "upazila_id": "22",
+    "name": "GAFFARGAON",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "61",
+    "upazila_id": "23",
+    "name": "GAURIPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "61",
+    "upazila_id": "24",
+    "name": "HALUAGHAT",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "61",
+    "upazila_id": "31",
+    "name": "ISHWARGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "61",
+    "upazila_id": "52",
+    "name": "MYMENSINGH SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "61",
+    "upazila_id": "65",
+    "name": "MUKTAGACHHA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "61",
+    "upazila_id": "72",
+    "name": "NANDAIL",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "61",
+    "upazila_id": "81",
+    "name": "PHULPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "61",
+    "upazila_id": "94",
+    "name": "TRISHAL",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "67",
+    "name": "NARAYANGANJ",
+    "type": "district"
+  },
+  {
+    "division_id": "30",
+    "district_id": "67",
+    "upazila_id": "02",
+    "name": "ARAIHAZAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "67",
+    "upazila_id": "04",
+    "name": "SONARGAON",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "67",
+    "upazila_id": "06",
+    "name": "BANDAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "67",
+    "upazila_id": "58",
+    "name": "NARAYANGANJ SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "67",
+    "upazila_id": "68",
+    "name": "RUPGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "68",
+    "name": "NARSINGDI",
+    "type": "district"
+  },
+  {
+    "division_id": "30",
+    "district_id": "68",
+    "upazila_id": "07",
+    "name": "BELABO",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "68",
+    "upazila_id": "52",
+    "name": "MANOHARDI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "68",
+    "upazila_id": "60",
+    "name": "NARSINGDI SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "68",
+    "upazila_id": "63",
+    "name": "PALASH",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "68",
+    "upazila_id": "64",
+    "name": "ROYPURA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "68",
+    "upazila_id": "76",
+    "name": "SHIBPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "72",
+    "name": "NETROKONA",
+    "type": "district"
+  },
+  {
+    "division_id": "30",
+    "district_id": "72",
+    "upazila_id": "04",
+    "name": "ATPARA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "72",
+    "upazila_id": "09",
+    "name": "BARHATTA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "72",
+    "upazila_id": "18",
+    "name": "DURGAPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "72",
+    "upazila_id": "38",
+    "name": "KHALIAJURI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "72",
+    "upazila_id": "40",
+    "name": "KALMAKANDA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "72",
+    "upazila_id": "47",
+    "name": "KENDUA THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "72",
+    "upazila_id": "56",
+    "name": "MADAN",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "72",
+    "upazila_id": "63",
+    "name": "MOHANGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "72",
+    "upazila_id": "74",
+    "name": "NETROKONA SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "72",
+    "upazila_id": "83",
+    "name": "PURBADHALA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "82",
+    "name": "RAJBARI",
+    "type": "district"
+  },
+  {
+    "division_id": "30",
+    "district_id": "82",
+    "upazila_id": "07",
+    "name": "BALIAKANDI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "82",
+    "upazila_id": "29",
+    "name": "GOALANDAGHAT",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "82",
+    "upazila_id": "47",
+    "name": "KALUKHALI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "82",
+    "upazila_id": "73",
+    "name": "PANGSHA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "82",
+    "upazila_id": "76",
+    "name": "RAJBARI SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "86",
+    "name": "SHARIATPUR",
+    "type": "district"
+  },
+  {
+    "division_id": "30",
+    "district_id": "86",
+    "upazila_id": "14",
+    "name": "BHEDARGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "86",
+    "upazila_id": "25",
+    "name": "DAMUDYA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "86",
+    "upazila_id": "36",
+    "name": "GOSAIRHAT",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "86",
+    "upazila_id": "65",
+    "name": "NARIA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "86",
+    "upazila_id": "69",
+    "name": "PALONG (SADAR)",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "86",
+    "upazila_id": "94",
+    "name": "ZANJIRA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "89",
+    "name": "SHERPUR",
+    "type": "district"
+  },
+  {
+    "division_id": "30",
+    "district_id": "89",
+    "upazila_id": "37",
+    "name": "JHENAIGATI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "89",
+    "upazila_id": "67",
+    "name": "NAKLA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "89",
+    "upazila_id": "70",
+    "name": "NALITABARI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "89",
+    "upazila_id": "88",
+    "name": "SHERPUR SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "89",
+    "upazila_id": "90",
+    "name": "SREEBARDI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "93",
+    "name": "TANGAIL",
+    "type": "district"
+  },
+  {
+    "division_id": "30",
+    "district_id": "93",
+    "upazila_id": "09",
+    "name": "BASAIL",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "93",
+    "upazila_id": "19",
+    "name": "BHUAPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "93",
+    "upazila_id": "23",
+    "name": "DELDUAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "93",
+    "upazila_id": "25",
+    "name": "DHANBARI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "93",
+    "upazila_id": "28",
+    "name": "GHATAIL",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "93",
+    "upazila_id": "38",
+    "name": "GOPALPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "93",
+    "upazila_id": "47",
+    "name": "KALIHATI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "93",
+    "upazila_id": "57",
+    "name": "MADHUPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "93",
+    "upazila_id": "66",
+    "name": "MIRZAPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "93",
+    "upazila_id": "76",
+    "name": "NAGARPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "93",
+    "upazila_id": "85",
+    "name": "SAKHIPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "30",
+    "district_id": "93",
+    "upazila_id": "95",
+    "name": "TANGAIL SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "name": "KHULNA ",
+    "type": "division"
+  },
+  {
+    "division_id": "40",
+    "district_id": "01",
+    "name": "BAGERHAT",
+    "type": "district"
+  },
+  {
+    "division_id": "40",
+    "district_id": "01",
+    "upazila_id": "08",
+    "name": "BAGERHAT SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "01",
+    "upazila_id": "14",
+    "name": "CHITALMARI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "01",
+    "upazila_id": "34",
+    "name": "FAKIRHAT",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "01",
+    "upazila_id": "38",
+    "name": "KACHUA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "01",
+    "upazila_id": "56",
+    "name": "MOLLAHAT",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "01",
+    "upazila_id": "58",
+    "name": "MONGLA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "01",
+    "upazila_id": "60",
+    "name": "MORRELGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "01",
+    "upazila_id": "73",
+    "name": "RAMPAL",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "01",
+    "upazila_id": "77",
+    "name": "SARANKHOLA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "18",
+    "name": "CHUADANGA",
+    "type": "district"
+  },
+  {
+    "division_id": "40",
+    "district_id": "18",
+    "upazila_id": "07",
+    "name": "ALAMDANGA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "18",
+    "upazila_id": "23",
+    "name": "CHUADANGA SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "18",
+    "upazila_id": "31",
+    "name": "DAMURHUDA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "18",
+    "upazila_id": "55",
+    "name": "JIBAN NAGAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "41",
+    "name": "JESSORE",
+    "type": "district"
+  },
+  {
+    "division_id": "40",
+    "district_id": "41",
+    "upazila_id": "04",
+    "name": "ABHAYNAGAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "41",
+    "upazila_id": "09",
+    "name": "BAGHER PARA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "41",
+    "upazila_id": "11",
+    "name": "CHAUGACHHA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "41",
+    "upazila_id": "23",
+    "name": "JHIKARGACHHA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "41",
+    "upazila_id": "38",
+    "name": "KESHABPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "41",
+    "upazila_id": "47",
+    "name": "KOTWALI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "41",
+    "upazila_id": "61",
+    "name": "MANIRAMPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "41",
+    "upazila_id": "90",
+    "name": "SHARSHA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "44",
+    "name": "JHENAIDAHA",
+    "type": "district"
+  },
+  {
+    "division_id": "40",
+    "district_id": "44",
+    "upazila_id": "14",
+    "name": "HARINAKUNDA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "44",
+    "upazila_id": "19",
+    "name": "JHENAIDAHA SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "44",
+    "upazila_id": "33",
+    "name": "KALIGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "44",
+    "upazila_id": "42",
+    "name": "KOTCHANDPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "44",
+    "upazila_id": "71",
+    "name": "MAHESHPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "44",
+    "upazila_id": "80",
+    "name": "SHAILKUPA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "47",
+    "name": "KHULNA",
+    "type": "district"
+  },
+  {
+    "division_id": "40",
+    "district_id": "47",
+    "upazila_id": "12",
+    "name": "BATIAGHATA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "47",
+    "upazila_id": "17",
+    "name": "DACOPE",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "47",
+    "upazila_id": "21",
+    "name": "DAULATPUR THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "47",
+    "upazila_id": "30",
+    "name": "DUMURIA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "47",
+    "upazila_id": "40",
+    "name": "DIGHALIA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "47",
+    "upazila_id": "45",
+    "name": "KHALISHPUR THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "47",
+    "upazila_id": "48",
+    "name": "KHAN JAHAN ALI THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "47",
+    "upazila_id": "51",
+    "name": "KHULNA SADAR THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "47",
+    "upazila_id": "53",
+    "name": "KOYRA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "47",
+    "upazila_id": "64",
+    "name": "PAIKGACHHA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "47",
+    "upazila_id": "69",
+    "name": "PHULTALA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "47",
+    "upazila_id": "75",
+    "name": "RUPSA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "47",
+    "upazila_id": "85",
+    "name": "SONADANGA THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "47",
+    "upazila_id": "94",
+    "name": "TEROKHADA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "50",
+    "name": "KUSHTIA",
+    "type": "district"
+  },
+  {
+    "division_id": "40",
+    "district_id": "50",
+    "upazila_id": "15",
+    "name": "BHERAMARA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "50",
+    "upazila_id": "39",
+    "name": "DAULATPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "50",
+    "upazila_id": "63",
+    "name": "KHOKSA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "50",
+    "upazila_id": "71",
+    "name": "KUMARKHALI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "50",
+    "upazila_id": "79",
+    "name": "KUSHTIA SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "50",
+    "upazila_id": "94",
+    "name": "MIRPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "55",
+    "name": "MAGURA",
+    "type": "district"
+  },
+  {
+    "division_id": "40",
+    "district_id": "55",
+    "upazila_id": "57",
+    "name": "MAGURA SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "55",
+    "upazila_id": "66",
+    "name": "MOHAMMADPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "55",
+    "upazila_id": "85",
+    "name": "SHALIKHA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "55",
+    "upazila_id": "95",
+    "name": "SREEPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "57",
+    "name": "MEHERPUR",
+    "type": "district"
+  },
+  {
+    "division_id": "40",
+    "district_id": "57",
+    "upazila_id": "47",
+    "name": "GANGNI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "57",
+    "upazila_id": "60",
+    "name": "MUJIB NAGAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "57",
+    "upazila_id": "87",
+    "name": "MEHERPUR SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "65",
+    "name": "NARAIL",
+    "type": "district"
+  },
+  {
+    "division_id": "40",
+    "district_id": "65",
+    "upazila_id": "28",
+    "name": "KALIA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "65",
+    "upazila_id": "52",
+    "name": "LOHAGARA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "65",
+    "upazila_id": "76",
+    "name": "NARAIL SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "87",
+    "name": "SATKHIRA",
+    "type": "district"
+  },
+  {
+    "division_id": "40",
+    "district_id": "87",
+    "upazila_id": "04",
+    "name": "ASSASUNI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "87",
+    "upazila_id": "25",
+    "name": "DEBHATA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "87",
+    "upazila_id": "43",
+    "name": "KALAROA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "87",
+    "upazila_id": "47",
+    "name": "KALIGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "87",
+    "upazila_id": "82",
+    "name": "SATKHIRA SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "87",
+    "upazila_id": "86",
+    "name": "SHYAMNAGAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "40",
+    "district_id": "87",
+    "upazila_id": "90",
+    "name": "TALA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "name": "RAJSHAHI ",
+    "type": "division"
+  },
+  {
+    "division_id": "50",
+    "district_id": "10",
+    "name": "BOGRA",
+    "type": "district"
+  },
+  {
+    "division_id": "50",
+    "district_id": "10",
+    "upazila_id": "06",
+    "name": "ADAMDIGHI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "10",
+    "upazila_id": "20",
+    "name": "BOGRA SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "10",
+    "upazila_id": "27",
+    "name": "DHUNAT",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "10",
+    "upazila_id": "33",
+    "name": "DHUPCHANCHIA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "10",
+    "upazila_id": "40",
+    "name": "GABTALI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "10",
+    "upazila_id": "54",
+    "name": "KAHALOO",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "10",
+    "upazila_id": "67",
+    "name": "NANDIGRAM",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "10",
+    "upazila_id": "81",
+    "name": "SARIAKANDI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "10",
+    "upazila_id": "85",
+    "name": "SHAJAHANPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "10",
+    "upazila_id": "88",
+    "name": "SHERPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "10",
+    "upazila_id": "94",
+    "name": "SHIBGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "10",
+    "upazila_id": "95",
+    "name": "SONATOLA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "38",
+    "name": "JOYPURHAT",
+    "type": "district"
+  },
+  {
+    "division_id": "50",
+    "district_id": "38",
+    "upazila_id": "13",
+    "name": "AKKELPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "38",
+    "upazila_id": "47",
+    "name": "JOYPURHAT SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "38",
+    "upazila_id": "58",
+    "name": "KALAI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "38",
+    "upazila_id": "61",
+    "name": "KHETLAL",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "38",
+    "upazila_id": "74",
+    "name": "PANCHBIBI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "64",
+    "name": "NAOGAON",
+    "type": "district"
+  },
+  {
+    "division_id": "50",
+    "district_id": "64",
+    "upazila_id": "03",
+    "name": "ATRAI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "64",
+    "upazila_id": "06",
+    "name": "BADALGACHHI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "64",
+    "upazila_id": "28",
+    "name": "DHAMOIRHAT",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "64",
+    "upazila_id": "47",
+    "name": "MANDA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "64",
+    "upazila_id": "50",
+    "name": "MAHADEBPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "64",
+    "upazila_id": "60",
+    "name": "NAOGAON SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "64",
+    "upazila_id": "69",
+    "name": "NIAMATPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "64",
+    "upazila_id": "75",
+    "name": "PATNITALA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "64",
+    "upazila_id": "79",
+    "name": "PORSHA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "64",
+    "upazila_id": "85",
+    "name": "RANINAGAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "64",
+    "upazila_id": "86",
+    "name": "SAPAHAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "69",
+    "name": "NATORE",
+    "type": "district"
+  },
+  {
+    "division_id": "50",
+    "district_id": "69",
+    "upazila_id": "09",
+    "name": "BAGATI PARA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "69",
+    "upazila_id": "15",
+    "name": "BARAIGRAM",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "69",
+    "upazila_id": "41",
+    "name": "GURUDASPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "69",
+    "upazila_id": "44",
+    "name": "LALPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "69",
+    "upazila_id": "63",
+    "name": "NATORE SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "69",
+    "upazila_id": "91",
+    "name": "SINGRA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "70",
+    "name": "CHAPAI NABABGANJ",
+    "type": "district"
+  },
+  {
+    "division_id": "50",
+    "district_id": "70",
+    "upazila_id": "18",
+    "name": "BHOLAHAT",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "70",
+    "upazila_id": "37",
+    "name": "GOMASTAPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "70",
+    "upazila_id": "56",
+    "name": "NACHOLE",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "70",
+    "upazila_id": "66",
+    "name": "NABABGANJ SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "70",
+    "upazila_id": "88",
+    "name": "SHIBGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "76",
+    "name": "PABNA",
+    "type": "district"
+  },
+  {
+    "division_id": "50",
+    "district_id": "76",
+    "upazila_id": "05",
+    "name": "ATGHARIA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "76",
+    "upazila_id": "16",
+    "name": "BERA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "76",
+    "upazila_id": "19",
+    "name": "BHANGURA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "76",
+    "upazila_id": "22",
+    "name": "CHATMOHAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "76",
+    "upazila_id": "33",
+    "name": "FARIDPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "76",
+    "upazila_id": "39",
+    "name": "ISHWARDI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "76",
+    "upazila_id": "55",
+    "name": "PABNA SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "76",
+    "upazila_id": "72",
+    "name": "SANTHIA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "76",
+    "upazila_id": "83",
+    "name": "SUJANAGAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "81",
+    "name": "RAJSHAHI",
+    "type": "district"
+  },
+  {
+    "division_id": "50",
+    "district_id": "81",
+    "upazila_id": "10",
+    "name": "BAGHA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "81",
+    "upazila_id": "12",
+    "name": "BAGHMARA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "81",
+    "upazila_id": "22",
+    "name": "BOALIA THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "81",
+    "upazila_id": "25",
+    "name": "CHARGHAT",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "81",
+    "upazila_id": "31",
+    "name": "DURGAPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "81",
+    "upazila_id": "34",
+    "name": "GODAGARI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "81",
+    "upazila_id": "40",
+    "name": "MATIHAR THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "81",
+    "upazila_id": "53",
+    "name": "MOHANPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "81",
+    "upazila_id": "72",
+    "name": "PABA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "81",
+    "upazila_id": "82",
+    "name": "PUTHIA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "81",
+    "upazila_id": "85",
+    "name": "RAJPARA THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "81",
+    "upazila_id": "90",
+    "name": "SHAH MAKHDUM THANA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "81",
+    "upazila_id": "94",
+    "name": "TANORE",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "88",
+    "name": "SIRAJGANJ",
+    "type": "district"
+  },
+  {
+    "division_id": "50",
+    "district_id": "88",
+    "upazila_id": "11",
+    "name": "BELKUCHI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "88",
+    "upazila_id": "27",
+    "name": "CHAUHALI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "88",
+    "upazila_id": "44",
+    "name": "KAMARKHANDA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "88",
+    "upazila_id": "50",
+    "name": "KAZIPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "88",
+    "upazila_id": "61",
+    "name": "ROYGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "88",
+    "upazila_id": "67",
+    "name": "SHAHJADPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "88",
+    "upazila_id": "78",
+    "name": "SIRAJGANJ SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "88",
+    "upazila_id": "89",
+    "name": "TARASH",
+    "type": "upazila"
+  },
+  {
+    "division_id": "50",
+    "district_id": "88",
+    "upazila_id": "94",
+    "name": "ULLAH PARA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "name": "RANGPUR ",
+    "type": "division"
+  },
+  {
+    "division_id": "55",
+    "district_id": "27",
+    "name": "DINAJPUR",
+    "type": "district"
+  },
+  {
+    "division_id": "55",
+    "district_id": "27",
+    "upazila_id": "10",
+    "name": "BIRAMPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "27",
+    "upazila_id": "12",
+    "name": "BIRGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "27",
+    "upazila_id": "17",
+    "name": "BIRAL",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "27",
+    "upazila_id": "21",
+    "name": "BOCHAGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "27",
+    "upazila_id": "30",
+    "name": "CHIRIRBANDAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "27",
+    "upazila_id": "38",
+    "name": "FULBARI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "27",
+    "upazila_id": "43",
+    "name": "GHORAGHAT",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "27",
+    "upazila_id": "47",
+    "name": "HAKIMPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "27",
+    "upazila_id": "56",
+    "name": "KAHAROLE",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "27",
+    "upazila_id": "60",
+    "name": "KHANSAMA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "27",
+    "upazila_id": "64",
+    "name": "DINAJPUR SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "27",
+    "upazila_id": "69",
+    "name": "NAWABGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "27",
+    "upazila_id": "77",
+    "name": "PARBATIPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "32",
+    "name": "GAIBANDHA",
+    "type": "district"
+  },
+  {
+    "division_id": "55",
+    "district_id": "32",
+    "upazila_id": "21",
+    "name": "FULCHHARI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "32",
+    "upazila_id": "24",
+    "name": "GAIBANDHA SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "32",
+    "upazila_id": "30",
+    "name": "GOBINDAGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "32",
+    "upazila_id": "67",
+    "name": "PALASHBARI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "32",
+    "upazila_id": "82",
+    "name": "SADULLAPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "32",
+    "upazila_id": "88",
+    "name": "SAGHATTA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "32",
+    "upazila_id": "91",
+    "name": "SUNDARGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "49",
+    "name": "KURIGRAM",
+    "type": "district"
+  },
+  {
+    "division_id": "55",
+    "district_id": "49",
+    "upazila_id": "06",
+    "name": "BHURUNGAMARI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "49",
+    "upazila_id": "08",
+    "name": "CHAR RAJIBPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "49",
+    "upazila_id": "09",
+    "name": "CHILMARI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "49",
+    "upazila_id": "18",
+    "name": "PHULBARI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "49",
+    "upazila_id": "52",
+    "name": "KURIGRAM SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "49",
+    "upazila_id": "61",
+    "name": "NAGESHWARI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "49",
+    "upazila_id": "77",
+    "name": "RAJARHAT",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "49",
+    "upazila_id": "79",
+    "name": "RAUMARI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "49",
+    "upazila_id": "94",
+    "name": "ULIPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "52",
+    "name": "LALMONIRHAT",
+    "type": "district"
+  },
+  {
+    "division_id": "55",
+    "district_id": "52",
+    "upazila_id": "02",
+    "name": "ADITMARI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "52",
+    "upazila_id": "33",
+    "name": "HATIBANDHA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "52",
+    "upazila_id": "39",
+    "name": "KALIGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "52",
+    "upazila_id": "55",
+    "name": "LALMONIRHAT SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "52",
+    "upazila_id": "70",
+    "name": "PATGRAM",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "73",
+    "name": "NILPHAMARI",
+    "type": "district"
+  },
+  {
+    "division_id": "55",
+    "district_id": "73",
+    "upazila_id": "12",
+    "name": "DIMLA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "73",
+    "upazila_id": "15",
+    "name": "DOMAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "73",
+    "upazila_id": "36",
+    "name": "JALDHAKA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "73",
+    "upazila_id": "45",
+    "name": "KISHOREGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "73",
+    "upazila_id": "64",
+    "name": "NILPHAMARI SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "73",
+    "upazila_id": "85",
+    "name": "SAIDPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "77",
+    "name": "PANCHAGARH",
+    "type": "district"
+  },
+  {
+    "division_id": "55",
+    "district_id": "77",
+    "upazila_id": "04",
+    "name": "ATWARI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "77",
+    "upazila_id": "25",
+    "name": "BODA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "77",
+    "upazila_id": "34",
+    "name": "DEBIGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "77",
+    "upazila_id": "73",
+    "name": "PANCHAGARH SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "77",
+    "upazila_id": "90",
+    "name": "TENTULIA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "85",
+    "name": "RANGPUR",
+    "type": "district"
+  },
+  {
+    "division_id": "55",
+    "district_id": "85",
+    "upazila_id": "03",
+    "name": "BADARGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "85",
+    "upazila_id": "27",
+    "name": "GANGACHARA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "85",
+    "upazila_id": "42",
+    "name": "KAUNIA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "85",
+    "upazila_id": "49",
+    "name": "RANGPUR SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "85",
+    "upazila_id": "58",
+    "name": "MITHA PUKUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "85",
+    "upazila_id": "73",
+    "name": "PIRGACHHA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "85",
+    "upazila_id": "76",
+    "name": "PIRGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "85",
+    "upazila_id": "92",
+    "name": "TARAGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "94",
+    "name": "THAKURGAON",
+    "type": "district"
+  },
+  {
+    "division_id": "55",
+    "district_id": "94",
+    "upazila_id": "08",
+    "name": "BALIADANGI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "94",
+    "upazila_id": "51",
+    "name": "HARIPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "94",
+    "upazila_id": "82",
+    "name": "PIRGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "94",
+    "upazila_id": "86",
+    "name": "RANISANKAIL",
+    "type": "upazila"
+  },
+  {
+    "division_id": "55",
+    "district_id": "94",
+    "upazila_id": "94",
+    "name": "THAKURGAON SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "60",
+    "name": "SYLHET ",
+    "type": "division"
+  },
+  {
+    "division_id": "60",
+    "district_id": "36",
+    "name": "HABIGANJ",
+    "type": "district"
+  },
+  {
+    "division_id": "60",
+    "district_id": "36",
+    "upazila_id": "02",
+    "name": "AJMIRIGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "60",
+    "district_id": "36",
+    "upazila_id": "05",
+    "name": "BAHUBAL",
+    "type": "upazila"
+  },
+  {
+    "division_id": "60",
+    "district_id": "36",
+    "upazila_id": "11",
+    "name": "BANIACHONG",
+    "type": "upazila"
+  },
+  {
+    "division_id": "60",
+    "district_id": "36",
+    "upazila_id": "26",
+    "name": "CHUNARUGHAT",
+    "type": "upazila"
+  },
+  {
+    "division_id": "60",
+    "district_id": "36",
+    "upazila_id": "44",
+    "name": "HABIGANJ SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "60",
+    "district_id": "36",
+    "upazila_id": "68",
+    "name": "LAKHAI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "60",
+    "district_id": "36",
+    "upazila_id": "71",
+    "name": "MADHABPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "60",
+    "district_id": "36",
+    "upazila_id": "77",
+    "name": "NABIGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "60",
+    "district_id": "58",
+    "name": "MAULVI BAZAR",
+    "type": "district"
+  },
+  {
+    "division_id": "60",
+    "district_id": "58",
+    "upazila_id": "14",
+    "name": "BARLEKHA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "60",
+    "district_id": "58",
+    "upazila_id": "35",
+    "name": "JURI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "60",
+    "district_id": "58",
+    "upazila_id": "56",
+    "name": "KAMALGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "60",
+    "district_id": "58",
+    "upazila_id": "65",
+    "name": "KULAURA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "60",
+    "district_id": "58",
+    "upazila_id": "74",
+    "name": "MAULVI BAZAR SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "60",
+    "district_id": "58",
+    "upazila_id": "80",
+    "name": "RAJNAGAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "60",
+    "district_id": "58",
+    "upazila_id": "83",
+    "name": "SREEMANGAL",
+    "type": "upazila"
+  },
+  {
+    "division_id": "60",
+    "district_id": "90",
+    "name": "SUNAMGANJ",
+    "type": "district"
+  },
+  {
+    "division_id": "60",
+    "district_id": "90",
+    "upazila_id": "18",
+    "name": "BISHWAMBARPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "60",
+    "district_id": "90",
+    "upazila_id": "23",
+    "name": "CHHATAK",
+    "type": "upazila"
+  },
+  {
+    "division_id": "60",
+    "district_id": "90",
+    "upazila_id": "27",
+    "name": "DAKHIN SUNAMGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "60",
+    "district_id": "90",
+    "upazila_id": "29",
+    "name": "DERAI",
+    "type": "upazila"
+  },
+  {
+    "division_id": "60",
+    "district_id": "90",
+    "upazila_id": "32",
+    "name": "DHARAMPASHA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "60",
+    "district_id": "90",
+    "upazila_id": "33",
+    "name": "DOWARABAZAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "60",
+    "district_id": "90",
+    "upazila_id": "47",
+    "name": "JAGANNATHPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "60",
+    "district_id": "90",
+    "upazila_id": "50",
+    "name": "JAMALGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "60",
+    "district_id": "90",
+    "upazila_id": "86",
+    "name": "SULLA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "60",
+    "district_id": "90",
+    "upazila_id": "89",
+    "name": "SUNAMGANJ SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "60",
+    "district_id": "90",
+    "upazila_id": "92",
+    "name": "TAHIRPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "60",
+    "district_id": "91",
+    "name": "SYLHET",
+    "type": "district"
+  },
+  {
+    "division_id": "60",
+    "district_id": "91",
+    "upazila_id": "08",
+    "name": "BALAGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "60",
+    "district_id": "91",
+    "upazila_id": "17",
+    "name": "BEANI BAZAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "60",
+    "district_id": "91",
+    "upazila_id": "20",
+    "name": "BISHWANATH",
+    "type": "upazila"
+  },
+  {
+    "division_id": "60",
+    "district_id": "91",
+    "upazila_id": "27",
+    "name": "COMPANIGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "60",
+    "district_id": "91",
+    "upazila_id": "31",
+    "name": "DAKHIN SURMA",
+    "type": "upazila"
+  },
+  {
+    "division_id": "60",
+    "district_id": "91",
+    "upazila_id": "35",
+    "name": "FENCHUGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "60",
+    "district_id": "91",
+    "upazila_id": "38",
+    "name": "GOLABGANJ",
+    "type": "upazila"
+  },
+  {
+    "division_id": "60",
+    "district_id": "91",
+    "upazila_id": "41",
+    "name": "GOWAINGHAT",
+    "type": "upazila"
+  },
+  {
+    "division_id": "60",
+    "district_id": "91",
+    "upazila_id": "53",
+    "name": "JAINTIAPUR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "60",
+    "district_id": "91",
+    "upazila_id": "59",
+    "name": "KANAIGHAT",
+    "type": "upazila"
+  },
+  {
+    "division_id": "60",
+    "district_id": "91",
+    "upazila_id": "62",
+    "name": "SYLHET SADAR",
+    "type": "upazila"
+  },
+  {
+    "division_id": "60",
+    "district_id": "91",
+    "upazila_id": "94",
+    "name": "ZAKIGANJ",
+    "type": "upazila"
+  }
+]
