@@ -2,4 +2,6 @@ $env:PATH += ";C:\Program Files\PostgreSQL\17\bin"
 
 psql --version
 
+Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
+
 .\import_geo_data.ps1
